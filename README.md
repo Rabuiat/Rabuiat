@@ -1,5 +1,5 @@
 <h2 align="center">Nice to Meet you! My name is Rafael ;)
-<h3 align="center">I'm Backend and DevOps Developer/Tech Leader from Brazil 🇧🇷</h3>
+<h3 align="center">I'm Backend and DevOps Developer/Tech Lead from Brazil (São Paulo) 🇧🇷</h3>
 
 </br>
 
