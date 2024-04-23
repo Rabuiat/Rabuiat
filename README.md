@@ -1,11 +1,11 @@
 <h2 align="center">Nice to Meet you! My name is Rafael ;)
-<h3 align="center">I'm Backend and Devops Developer/Tech Leader from Brazil 🇧🇷</h3>
+<h3 align="center">I'm Backend and DevOps Developer/Tech Leader from Brazil 🇧🇷</h3>
 
 </br>
 
 - 🔭 I’m currently working at [Ton](https://www.ton.com.br/)
-- 🌱 I’m currently improving my **management** and **frontend** skills
-- 👯 I’m looking to collaborate on **AI** and **quantum computing** for fun
+- 🌱 I’m currently improving my **Management** and **Frontend** skills
+- 👯 I’m looking to collaborate on **AI** and **Quantum Computing** for fun
 - 💬 Ask me about *Anything about code and payments market*
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have the **power** to transform coffee ☕ into scalable code
