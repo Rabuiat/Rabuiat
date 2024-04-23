@@ -3,11 +3,11 @@
 
 </br>
 
-- 🔭 I’m currently working at [Ton](https://www.ton.com.br/)
+- 🔭 I’m currently working at [Stone Ton](https://www.ton.com.br/)
 - 🌱 I’m currently improving my **Management** and **Frontend** skills
 - 👯 I’m looking to collaborate on **AI** and **Quantum Computing** for fun
-- 💬 Ask me about *Anything about code and payments market*
-- 😄 Pronouns: He/His
+- 💬 Ask me about **Any Code and Payments Market**
+- 😄 Pronouns: **He/His**
 - ⚡ Fun fact: I have the **power** to transform coffee ☕ into scalable code
 
 </br>
