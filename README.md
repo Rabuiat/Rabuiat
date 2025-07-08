@@ -5,7 +5,7 @@
 
 💼 **Stack Highlights:** Node.js · TypeScript · AWS (20+ services) · Terraform · GitHub Actions · Serverless · PCI-DSS · Kubernetes · Datadog · Observability · Developer Experience
 
-📄 [View my international resume (PDF)](https://docs.google.com/document/d/1IwtxKz9mjaKqAO5s9OYYSQuYhmHWnxTh/view)
+📄 [View My Resume](https://docs.google.com/document/d/1IwtxKz9mjaKqAO5s9OYYSQuYhmHWnxTh/view)
 
 ---
 
